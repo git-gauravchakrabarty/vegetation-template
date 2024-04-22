@@ -1,2 +1,2 @@
-# shortcourse-01-get-started-template
-A template repository for getting started with Python
+# shortcourse-02-vegetation-template
+A template repository for a Vegetation change assignment
